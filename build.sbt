@@ -6,5 +6,6 @@ lazy val root = project
     name := "forest-scala",
     version := "0.1.0-SNAPSHOT",
     scalaVersion := scala3Version,
+    libraryDependencies += "org.scalactic" %% "scalactic" % "3.2.11",
     libraryDependencies += "org.scalatest" %% "scalatest" % "3.2.9" % Test
   )
