@@ -1,2 +1,15 @@
 *.class
 *.log
+.bsp
+
+# sbt
+.bloop
+project/project
+target
+metals.sbt
+
+# VS Code
+.vscode
+
+# Metals
+.metals
