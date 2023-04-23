@@ -1,4 +1,4 @@
-package info.shunsvineyard.forest.binarytrees
+package com.formosa1544.forest.binarytrees
 
 class Node(
     val key: Int,

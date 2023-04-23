@@ -1,6 +1,6 @@
 import org.scalatest.funsuite._
 
-import info.shunsvineyard.forest.binarytrees.*
+import com.formosa1544.forest.binarytrees.*
 import org.scalatest.funspec.AnyFunSpec
 
 
